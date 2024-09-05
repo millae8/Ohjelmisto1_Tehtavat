@@ -9,4 +9,4 @@ while luku != "":
     luku = input("Anna numero: ")
 
 luvut.sort(reverse = True)
-print(luvut[0:6])
+print(luvut[0:5])
